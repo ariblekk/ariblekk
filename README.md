@@ -58,10 +58,10 @@ const ari = {
 <div align="center">
 
 <a href="https://github.com/ariblekk/SproutLink">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=ariblekk&repo=SproutLink&theme=tokyonight&hide_border=true&bg_color=0D1117" height="130" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=ariblekk&repo=SproutLink&theme=tokyonight&hide_border=true&bg_color=0D1117&cache_seconds=86400" height="130" />
 </a>
 <a href="https://github.com/ariblekk/Diginvited-mobile">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=ariblekk&repo=Diginvited-mobile&theme=tokyonight&hide_border=true&bg_color=0D1117" height="130" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=ariblekk&repo=Diginvited-mobile&theme=tokyonight&hide_border=true&bg_color=0D1117&cache_seconds=86400" height="130" />
 </a>
 
 </div>
@@ -87,8 +87,12 @@ const ari = {
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=ariblekk&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&include_all_commits=true&count_private=true" height="165" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ariblekk&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&langs_count=8" height="165" />
+<a href="https://github.com/ariblekk">
+  <img src="https://github-readme-stats.vercel.app/api?username=ariblekk&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&cache_seconds=86400" height="165" />
+</a>
+<a href="https://github.com/ariblekk">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ariblekk&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&langs_count=8&cache_seconds=86400" height="165" />
+</a>
 
 <br/><br/>
 
